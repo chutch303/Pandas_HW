@@ -4,7 +4,6 @@
 import pandas as pd
 ```
 
-
 ```python
 df = pd.read_json('purchase_data.json')
 df.head()
