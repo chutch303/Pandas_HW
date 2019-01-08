@@ -5,6 +5,10 @@ import pandas as pd
 ```
 
 ```python
+import numpy as np
+```
+
+```python
 df = pd.read_json('purchase_data.json')
 df.head()
 ```
